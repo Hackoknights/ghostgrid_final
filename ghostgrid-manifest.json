@@ -1,0 +1,13 @@
+{
+  "id": "./index.html",
+  "name": "GhostGrid \u2014 Emergency Command",
+  "short_name": "GhostGrid",
+  "description": "Offline emergency mesh command dashboard with cross-device presence sync.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1210",
+  "theme_color": "#0c1210",
+  "orientation": "any"
+}
